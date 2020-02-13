@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/javillerenas/lynda-full-stack-js-dev#readme",
   "dependencies": {
+    "ejs": "^3.0.1",
     "express": "^4.17.1",
     "mongodb": "^3.5.2",
     "prop-types": "^15.7.2",
